@@ -1,0 +1,63 @@
+data = [
+	{
+		"title" : "Dr. Joe Vitalie",
+		"content" : "\" You can have, do, or be anything you want \""
+	},
+	{
+		"title" : "John Assaraf",
+		"content" : "\" We can have whatever it is that we choose, i don't care how big it is \""
+	},
+	{
+		"title" : "Bernard Beckwith",
+		"content" : "\" I've seen many miracles take place in people's lives. Financial miracles, miracles of physical healing, mental healing, healing of relationships \""
+	},
+	{
+		"title" : "Bob Proctor",
+		"content" : "\" If you can think about what you want in your mind, and make that your dominant thought, you will bring it into your life \""
+	},
+	{
+		"title" : "Bob Proctor",
+		"content" : "\" See yourself living in abundance and you will attract it. It works every time, with every person \""
+	},
+	{
+		"title" : "Bob Proctor",
+		"content" : "\" The law of attraction is always working, whether you believe it or understand it or not \""
+	},
+	{
+		"title" : "Bernard Beckwith",
+		"content" : "\" You attract to you the predominant thoughts that you're holding in your awareness, whether those thoughts are conscious or unconscious. That's the rob \""
+	}
+	
+],
+
+data1 = [
+	{
+		"title" : "Dr. Joe Vitalie",
+		"content" : "\" You can have, do, or be anything you want \""
+	},
+	{
+		"title" : "John Assaraf",
+		"content" : "\" We can have whatever it is that we choose, i don't care how big it is \""
+	},
+	{
+		"title" : "Bernard Beckwith",
+		"content" : "\" I've seen many miracles take place in people's lives. Financial miracles, miracles of physical healing, mental healing, healing of relationships \""
+	},
+	{
+		"title" : "Bob Proctor",
+		"content" : "\" If you can think about what you want in your mind, and make that your dominant thought, you will bring it into your life \""
+	},
+	{
+		"title" : "Bob Proctor",
+		"content" : "\" See yourself living in abundance and you will attract it. It works every time, with every person \""
+	},
+	{
+		"title" : "Bob Proctor",
+		"content" : "\" The law of attraction is always working, whether you believe it or understand it or not \""
+	},
+	{
+		"title" : "Bernard Beckwith",
+		"content" : "\" You attract to you the predominant thoughts that you're holding in your awareness, whether those thoughts are conscious or unconscious. That's the rob \""
+	}
+	
+]
